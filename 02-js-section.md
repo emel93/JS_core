@@ -53,11 +53,12 @@ API для тренировки будем использовать [отсбд�
 
 ### Блок 2.2: Основы JS + Функции
 
-Гуглим как установить Node.js и запустить js файл.  
-[Введение в программирование на JS](https://learn.javascript.ru/intro)  
+Гуглим как установить Node.js и запустить js файл.   
 [Знакомство с функциями](https://learn.javascript.ru/function-basics)  
 [Function-expressions](https://learn.javascript.ru/function-expressions)
-[Arrow-functions](https://learn.javascript.ru/arrow-functions-basics)
+[Arrow-functions](https://learn.javascript.ru/arrow-functions-basics)  
+[Массивы](https://learn.javascript.ru/array)  
+[Методы примитивов](https://learn.javascript.ru/primitives-methods)
 
 #### Внимание:
 - Если материал показался вам не понятен - ищем в других источниках. В полиморфизм, диспетчеризацию и остальной computer science не углубляемся.
@@ -81,12 +82,30 @@ API для тренировки будем использовать [отсбд�
 - Значения по умолчанию
 - Функции высшего порядка
 - Отличия стрелочных функций от обычных
-- map / filter / reduce
+- map / filter / reduce / forEach / find / flat / includes / indexOf / join / slice / splice / sort
 
 #### Задание
-Решаем все задачки по очереди [отсюда](https://github.com/mbelsky/js-problems/tree/master/problems)  
+Решаем задачки по очереди и учимся разбивать код на отдельные функции, называем переменные понятными именами, следим за отступами.
+
+- [Hello Word!](https://codesandbox.io/s/hello-world-forked-knm77f)
+- [Лазанья](https://codesandbox.io/s/sochnaya-lazanya-mayka-forked-u13fr4)
+- [Спасение из темницы](https://codesandbox.io/s/inspiring-river-n98ne1)
+- [Калькулятор стоимости услуг](https://codesandbox.io/s/kalkulyator-stoimosti-uslug-04-forked-qt2tev)
+- [Правила посещения Поэтического клуба](https://codesandbox.io/s/pravila-poseshcheniya-poeticheskogo-kluba-forked-n7l7cu)
+- [Чары Элиз](https://codesandbox.io/s/chary-eliz-06-forked-uymziq)
+- [Покупка автомобиля](https://codesandbox.io/s/pokupka-avtomobilya-07-forked-xj61iu)
+- [Наблюдение за птицами](https://codesandbox.io/s/08-nablyudenie-za-pticami-forked-gwchsx)
+- [Смешанные соки](https://codesandbox.io/s/09-smeshannye-soki-forked-ryozoy?file=/src/index.js)
+- [Доска рекордов](https://codesandbox.io/s/10-doska-rekordov-forked-yn4so6)
+- [Парк аттракционов](https://codesandbox.io/s/11-park-attrakcionov-forked-uts62f)
+- [Счастливые числа](https://codesandbox.io/s/12-schastlivye-chisla-forked-q2b66w)
+- [Мастер Лазаньи](https://codesandbox.io/s/13-master-lazani-forked-6cwyek)
+  
+Дальше перехоим к [этим](https://github.com/mbelsky/js-problems/tree/master/problems) задачкам.
+Используем методы массивов по максимуму.
 
 ### Блок 12: Классы + Коллекции
+[ООП](https://habr.com/ru/company/ruvds/blog/665290/)
 [Классы](https://learn.javascript.ru/classes)  
 [Коллекции](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Keyed_collections) 
 
@@ -96,8 +115,10 @@ API для тренировки будем использовать [отсбд�
 - [Статические свойства (Кантор)](https://learn.javascript.ru/static-properties-methods)  
 
 #### Задание
-// нужно задание по классам
-
+Практикуемся в работе с объектами
+- [10 задачек на объекты](https://github.com/emel93/JS_core/blob/main/tasks-object.md)
+- [Создание классов](http://old.code.mu/tasks/javascript/oop/osnovy-raboty-s-oop-v-javascript.html)
+- [Наследование](http://old.code.mu/tasks/javascript/oop/nasledovanie-klassov-v-javascript.html)
 
 #### Темы для ревью:
 - Методы объекта
@@ -106,7 +127,7 @@ API для тренировки будем использовать [отсбд�
 - Map, Set
 - rest, spread, destructuring
 - Мемоизация
-- Методы массива: push / pop / join
+- Методы массива: push / pop / shift / unshift
 
 ### Блок 13: Прототипы + Обработка ошибок
 [Прототипы](https://learn.javascript.ru/prototypes)  
