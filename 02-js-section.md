@@ -160,7 +160,7 @@ API для тренировки будем использовать [отсбд�
 - [Async/await (Кантор)](https://learn.javascript.ru/async-await)
 - [Про цикл событий в JavaScript или "как на самом деле работает асинхронность"?](https://www.youtube.com/watch?v=8cV4ZvHXQL4)
 - [Jake Archibald: все что я знаю про Event Loop в JavaScript](https://www.youtube.com/watch?v=j4_9BZezSUA)
-- [Полное понимание синхронного и асинхронного JavaScript с Async/Await](https://medium.com/@stasonmars/%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BE%D0%BD%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D0%B5-%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8-%D0%B0%D1%81%D0%B8%D0%BD%D1%85%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-javascript-%D1%81-async-await-ba5f47f4436)
+- [Полное понимание синхронного и асинхронного JavaScript с Async/Await](https://stasonmars.ru/javascript/polnoe-ponimanie-syncronnogo-i-asyncronnogo-javascript-s-async-await/)
 - [Хранение данные](https://learn.javascript.ru/data-storage) (IndexedDB - просто знайте, что такая штука есть)
 - [События](https://learn.javascript.ru/events)
 
